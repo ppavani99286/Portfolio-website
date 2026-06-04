@@ -19,8 +19,7 @@ const projects = [
       "Personal portfolio website built with React and modern UI principles.",
     technologies: "React, Framer Motion, CSS",
     github: "https://github.com/ppavani99286/portfolio",
-    live: "https://portfolio.vercel.app"
-  },
+    live: "https://portfolio-website-rho-amber-99.vercel.app/" },
 
   {
     title: "Business Landing Page",
